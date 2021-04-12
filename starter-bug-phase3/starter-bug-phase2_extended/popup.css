@@ -1,0 +1,10 @@
+#system {
+    display: block;
+    margin: auto;
+    width: 150px;
+}
+
+.info {
+    text-align: center;
+    font-size: medium;
+}
