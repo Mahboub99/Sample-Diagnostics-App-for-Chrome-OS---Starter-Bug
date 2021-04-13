@@ -225,8 +225,11 @@ $ http-server dist/
 
 ### How to install 
 > go to  [chrome extensions](chrome://extensions/)
+
 > select load unpacked
+
 > navigate to `starter-bug-phase2`
+
 > now you can bin the extention:
 
 ![image](https://user-images.githubusercontent.com/43186742/114522357-9d41a900-9c43-11eb-8ed5-d8df1c392be7.png)
