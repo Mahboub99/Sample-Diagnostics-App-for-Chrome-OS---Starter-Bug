@@ -176,7 +176,7 @@ $ http-server dist/
 
 
 
-### screen Screenshots
+### Screenshots
 
 > First now you have this and you can download from the install icon 
 
