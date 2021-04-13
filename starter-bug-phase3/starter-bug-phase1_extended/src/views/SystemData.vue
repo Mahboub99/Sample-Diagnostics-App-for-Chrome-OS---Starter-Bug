@@ -5,22 +5,20 @@
 </template>
 
 <script>
-// Make a simple request:
-
 export default {
   data() {
     return {};
   },
-
   methods: {},
   mounted() {
     var editorExtensionId = "hoifjojbknclnedfbedhgflejdobdbij";
 
+    // Make a simple request:
     chrome.runtime.sendMessage(
       editorExtensionId,
-      { openUrlInEditor: url },
+      { greeting: "Hi there" },
       function(response) {
-        if (!response.success) handleError(url);
+        //if (!response.success) console.log("Fail");
         console.log(response);
       }
     );

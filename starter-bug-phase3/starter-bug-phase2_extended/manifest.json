@@ -1,10 +1,10 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "starter bug phase 3",
     "version": "0.1.0",
     "description": "chrome extention to fetch system info",
 
-    "browser_action": {
+    "action": {
         "default_popup": "popup.html",
         "default_icon": {
             "16": "images/icon16.png",
@@ -13,7 +13,7 @@
         }
     },
     "background": {
-        "scripts": ["background.js"]
+        "service_worker": "background.js"
     },
     "permissions": [
         "system.cpu",
@@ -22,6 +22,6 @@
         "system.memory"
     ],
     "externally_connectable": {
-        "matches": ["*://127.0.0.1:8080/*" , "*://127.0.0.1:8080" ]
+        "matches": ["http://127.0.0.1:8080/*" ]
     }
 }
