@@ -222,6 +222,8 @@ $ http-server dist/
         icon32.png
         system.png
 ```
+### Note
+> I used manifest V2 in this phase but in phase 3 I used V3
 
 ### How to install 
 > go to  [chrome extensions](chrome://extensions/)
@@ -251,8 +253,20 @@ $ http-server dist/
 > for `starter-bug-phase1_extended` same as `phase1`
 > for `starter-bug-phase2_extended` same as `pahse2`
 
+### Note:
+> In this Phase I used manifest V3 in Chrome Extension, instead of V2.
+
 ### screen shots 
 
+> extention using V3 
+
+![image](https://user-images.githubusercontent.com/43186742/114633509-e8e66800-9cc0-11eb-828e-41207a1bdee8.png)
+<hr/>
+
+> the pwa
+
+![image](https://user-images.githubusercontent.com/43186742/114633290-8beab200-9cc0-11eb-8d21-3fe7bfddbedc.png)
+<hr/>
 
 ### Contributors
 <table>
