@@ -22,6 +22,6 @@
         "system.memory"
     ],
     "externally_connectable": {
-        "matches": ["http://127.0.0.1:8080/*" ]
+        "matches": ["http://127.0.0.1:8080/*" , "http://localhost:8081/*"]
     }
 }
