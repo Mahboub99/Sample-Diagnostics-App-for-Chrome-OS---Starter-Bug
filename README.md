@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug" rel="noopener">
   
-  ![starterBug](https://user-images.githubusercontent.com/43186742/114541552-28786a00-9c57-11eb-90dc-9dc069f55cb3.png)
+  ![starterBug](https://user-images.githubusercontent.com/43186742/114544881-873fe280-9c5b-11eb-8c82-bea65b375ba1.png)
 
 
 </div>
