@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "starter bug phase 2",
+    "name": "starter bug phase 3",
     "version": "0.1.0",
     "description": "chrome extention to fetch system info",
 
@@ -20,5 +20,8 @@
         "system.display",
         "system.storage",
         "system.memory"
-    ]
+    ],
+    "externally_connectable": {
+        "matches": ["*://127.0.0.1:8080/*" , "*://127.0.0.1:8080" ]
+    }
 }

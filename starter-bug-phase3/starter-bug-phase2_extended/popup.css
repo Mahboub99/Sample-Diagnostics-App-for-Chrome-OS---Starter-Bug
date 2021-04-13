@@ -1,7 +1,11 @@
+body{
+    text-align: center;
+}
 #system {
     display: block;
     margin: auto;
     width: 150px;
+
 }
 
 .info {
