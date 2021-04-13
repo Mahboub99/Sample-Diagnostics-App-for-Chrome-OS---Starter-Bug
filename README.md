@@ -186,14 +186,17 @@ $ http-server dist/
 > now you have an app 
 
 >Data Page
+
 ![image](https://user-images.githubusercontent.com/43186742/114531502-3f658f00-9c4c-11eb-803b-29cd194ae6a5.png)
 <hr/>
 
 > Manager Page
+
 ![image](https://user-images.githubusercontent.com/43186742/114531690-6ae87980-9c4c-11eb-82d6-9e2e791f98ce.png)
 <hr/>
 
 > State Page
+
 ![image](https://user-images.githubusercontent.com/43186742/114531934-a3885300-9c4c-11eb-9caa-ee119adcbfe6.png)
 <hr/>
 
@@ -230,10 +233,12 @@ $ http-server dist/
 
 ### screen shot working 
 > you can go to the background page 
+
 ![image](https://user-images.githubusercontent.com/43186742/114522989-2bb62a80-9c44-11eb-9a2f-30b6528cd18b.png)
 <hr/>
 
 >open console to see fetched information 
+
 ![image](https://user-images.githubusercontent.com/43186742/114523297-73d54d00-9c44-11eb-9d48-90a9c7b1efa4.png)
 <hr/>
 
