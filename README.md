@@ -14,7 +14,7 @@
   [![GitHub contributors](https://img.shields.io/github/contributors/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug)](https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug/contributors)
   [![GitHub issues](https://img.shields.io/github/issues/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug)](https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug/issues)
   [![GitHub forks](https://img.shields.io/github/forks/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug)](https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug/network)
-  [![GitHub stars](https://img.shields.io/github/stars/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug](https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug/stargazers)
+  [![GitHub stars](https://img.shields.io/github/stars/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug)](https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug/stargazers)
   [![GitHub license](https://img.shields.io/github/license/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug)](https://github.com/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug/blob/master/LICENSE)
   <img src="https://img.shields.io/github/languages/count/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug" />
   <img src="https://img.shields.io/github/languages/top/Mahboub99/Sample-Diagnostics-App-for-Chrome-OS---Starter-Bug" />
